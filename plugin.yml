@@ -2,7 +2,7 @@ name: AcidIsland
 main: MyPlot\MyPlot
 version: 3.2.9
 api: [1.2.0, 2.0.0, 3.0.0, 4.0.0]
-author: KaysilGMVN
+author: Binh Phan
 softdepend: [EconomyAPI, PocketMoney]
 
 permissions:
